@@ -1,0 +1,20 @@
+p{
+    font-size: 22px;
+    font-family: 'Patrick Hand', cursive;
+    color: greenyellow;
+}
+
+.parrafo{
+    font-size: 22px;
+    font-family: 'Patrick Hand', cursive;
+    color: royalblue
+}
+
+.resaltado{
+    color: yellow;
+}
+
+body{
+    background-image: url("recursos/nacional.jpg");
+    background-attachment: fixed;
+}
